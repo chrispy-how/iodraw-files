@@ -25,7 +25,7 @@
           <mxGeometry x="80.00000000000011" y="540.5" width="65" height="51" as="geometry" />
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-17" value="Machine&lt;br&gt;Learning" style="aspect=fixed;html=1;perimeter=none;align=left;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Machine_Learning.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;labelPosition=right;verticalLabelPosition=bottom;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="800" y="180" width="29" height="30" as="geometry" />
+          <mxGeometry x="820" y="180" width="29" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-20" value="HDInsight" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/HDInsight.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=4;" parent="1" vertex="1">
           <mxGeometry x="160.0000000000001" y="750.0000000000001" width="50" height="38.5" as="geometry" />
