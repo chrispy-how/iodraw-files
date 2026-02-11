@@ -15,8 +15,10 @@
             <mxPoint x="810" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLjyjs_sm2IHfBNOWAbh-27" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;exitX=1.031;exitY=0.506;exitDx=0;exitDy=0;exitPerimeter=0;elbow=vertical;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-14" target="RLjyjs_sm2IHfBNOWAbh-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RLjyjs_sm2IHfBNOWAbh-27" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;exitX=1.031;exitY=0.506;exitDx=0;exitDy=0;exitPerimeter=0;elbow=vertical;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;exitX=0.497;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-16" edge="1">
           <mxGeometry relative="1" as="geometry">
