@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-12" value="Diagrnostic &lt;br&gt;Events" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/DirectorySync.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="87.5" y="670" width="50" height="50" as="geometry" />
+          <mxGeometry x="80" y="370" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-14" value="Web Browser" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" parent="1" vertex="1">
           <mxGeometry x="230" y="159.99999999999994" width="48.5" height="50" as="geometry" />
