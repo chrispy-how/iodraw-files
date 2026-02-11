@@ -17,12 +17,7 @@
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-27" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;exitX=1.031;exitY=0.506;exitDx=0;exitDy=0;exitPerimeter=0;elbow=vertical;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WmnyH9-4UKQU25Vq7HPD-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RLjyjs_sm2IHfBNOWAbh-27">
-          <mxGeometry x="0.9464" y="4" relative="1" as="geometry">
-            <mxPoint x="-1" y="-2" as="offset" />
+            <mxPoint x="310" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;exitX=0.497;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-16" edge="1">
