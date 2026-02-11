@@ -97,7 +97,7 @@
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-5" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="320" y="137.75" width="273.23" height="232.25" as="geometry" />
         </mxCell>
-        <mxCell id="RLjyjs_sm2IHfBNOWAbh-19" value="Geography&lt;br&gt;Data" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=7;" parent="WmnyH9-4UKQU25Vq7HPD-5" vertex="1">
+        <mxCell id="RLjyjs_sm2IHfBNOWAbh-19" value="Application" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=7;" parent="WmnyH9-4UKQU25Vq7HPD-5" vertex="1">
           <mxGeometry width="273.23" height="232.25" as="geometry" />
         </mxCell>
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-2" value="&lt;b&gt;Admin&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WmnyH9-4UKQU25Vq7HPD-5">
