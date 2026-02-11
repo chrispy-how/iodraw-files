@@ -15,6 +15,9 @@
             <mxPoint x="370" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RLjyjs_sm2IHfBNOWAbh-12" target="WmnyH9-4UKQU25Vq7HPD-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-12" value="Diagrnostic &lt;br&gt;Events" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/DirectorySync.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" parent="1" vertex="1">
           <mxGeometry x="80" y="370" width="50" height="50" as="geometry" />
         </mxCell>
@@ -208,6 +211,9 @@
             <mxPoint x="480" y="460" as="sourcePoint" />
             <mxPoint x="530" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-53" value="Diagrnostic &lt;br&gt;Events" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/DirectorySync.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
