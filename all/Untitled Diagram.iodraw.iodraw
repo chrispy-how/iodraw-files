@@ -140,7 +140,7 @@
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-39" value="" style="whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="WmnyH9-4UKQU25Vq7HPD-37">
           <mxGeometry x="11.620000000000005" y="54.25" width="250" height="155.75" as="geometry" />
         </mxCell>
-        <mxCell id="WmnyH9-4UKQU25Vq7HPD-40" value="&lt;b&gt;Admin Dashboard&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WmnyH9-4UKQU25Vq7HPD-37">
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-40" value="&lt;b&gt;Register&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WmnyH9-4UKQU25Vq7HPD-37">
           <mxGeometry x="106.62" y="110.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WmnyH9-4UKQU25Vq7HPD-3" target="WmnyH9-4UKQU25Vq7HPD-38">
