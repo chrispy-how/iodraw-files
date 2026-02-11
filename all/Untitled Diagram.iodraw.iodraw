@@ -20,11 +20,12 @@
             <mxPoint x="370" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLjyjs_sm2IHfBNOWAbh-28" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-17" target="RLjyjs_sm2IHfBNOWAbh-24" edge="1">
+        <mxCell id="RLjyjs_sm2IHfBNOWAbh-28" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="909.5" y="295.5" />
             </Array>
+            <mxPoint x="909.5" y="354.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-33" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-20" edge="1">
@@ -37,8 +38,10 @@
             <mxPoint x="660" y="617" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLjyjs_sm2IHfBNOWAbh-29" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=1.052;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#808080;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-23" target="RLjyjs_sm2IHfBNOWAbh-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RLjyjs_sm2IHfBNOWAbh-29" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=1.052;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#808080;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="908.7180000000001" y="407.1" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-30" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;exitX=0.62;exitY=1.036;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -74,9 +77,6 @@
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-23" value="SQL Data&lt;br&gt;Warehouse" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=6;" parent="1" vertex="1">
           <mxGeometry x="890.2499999999998" y="478.5" width="37.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RLjyjs_sm2IHfBNOWAbh-24" value="Power BI" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.power_bi_embedded;fillColor=#000000;pointerEvents=1;labelBackgroundColor=#ffffff;spacingTop=7;" parent="1" vertex="1">
-          <mxGeometry x="885.4999999999999" y="354.5" width="47" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="138.5" width="30" height="60" as="geometry" />
