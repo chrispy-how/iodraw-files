@@ -131,9 +131,6 @@
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-18" value="Application" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=7;" vertex="1" parent="1">
           <mxGeometry x="200" y="427.75" width="273.23" height="232.25" as="geometry" />
         </mxCell>
-        <mxCell id="WmnyH9-4UKQU25Vq7HPD-19" value="&lt;b&gt;Admin&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="590" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-20" value="&lt;b&gt;Register&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="590" width="60" height="30" as="geometry" />
         </mxCell>
