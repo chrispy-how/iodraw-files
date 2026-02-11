@@ -95,7 +95,7 @@
           <mxGeometry x="90" y="138.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="137.75" width="273.23" height="232.25" as="geometry" />
+          <mxGeometry x="369" y="138.5" width="273.23" height="232.25" as="geometry" />
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-19" value="Application" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=7;" parent="WmnyH9-4UKQU25Vq7HPD-5" vertex="1">
           <mxGeometry width="273.23" height="232.25" as="geometry" />
