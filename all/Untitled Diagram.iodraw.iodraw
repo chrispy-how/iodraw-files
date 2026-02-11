@@ -74,9 +74,6 @@
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-17" value="Machine&lt;br&gt;Learning" style="aspect=fixed;html=1;perimeter=none;align=left;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Machine_Learning.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;labelPosition=right;verticalLabelPosition=bottom;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="745.5" y="183.5" width="29" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RLjyjs_sm2IHfBNOWAbh-19" value="Geography&lt;br&gt;Data" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=7;" parent="1" vertex="1">
-          <mxGeometry x="320" y="137.75" width="273.23" height="232.25" as="geometry" />
-        </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-20" value="HDInsight" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/HDInsight.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=4;" parent="1" vertex="1">
           <mxGeometry x="695.5000000000001" y="484.2500000000001" width="50" height="38.5" as="geometry" />
         </mxCell>
@@ -95,14 +92,20 @@
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="138.5" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WmnyH9-4UKQU25Vq7HPD-2" value="&lt;b&gt;Admin&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="137.75" width="273.23" height="232.25" as="geometry" />
         </mxCell>
-        <mxCell id="WmnyH9-4UKQU25Vq7HPD-3" value="&lt;b&gt;Register&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="RLjyjs_sm2IHfBNOWAbh-19" value="Geography&lt;br&gt;Data" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=7;" parent="WmnyH9-4UKQU25Vq7HPD-5" vertex="1">
+          <mxGeometry width="273.23" height="232.25" as="geometry" />
         </mxCell>
-        <mxCell id="WmnyH9-4UKQU25Vq7HPD-4" value="&lt;b&gt;Log In&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="219.5" width="60" height="30" as="geometry" />
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-2" value="&lt;b&gt;Admin&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WmnyH9-4UKQU25Vq7HPD-5">
+          <mxGeometry x="40" y="162.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-3" value="&lt;b&gt;Register&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WmnyH9-4UKQU25Vq7HPD-5">
+          <mxGeometry x="170" y="162.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-4" value="&lt;b&gt;Log In&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WmnyH9-4UKQU25Vq7HPD-5">
+          <mxGeometry x="40" y="81.75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
