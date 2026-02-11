@@ -131,6 +131,18 @@
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-33" value="&lt;b&gt;Admin Dashboard&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WmnyH9-4UKQU25Vq7HPD-36">
           <mxGeometry x="106.62" y="110.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="730" y="424" width="273.23" height="232.25" as="geometry" />
+        </mxCell>
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-38" value="Admin Dashboard" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=7;" vertex="1" parent="WmnyH9-4UKQU25Vq7HPD-37">
+          <mxGeometry width="273.23" height="232.25" as="geometry" />
+        </mxCell>
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-39" value="" style="whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="WmnyH9-4UKQU25Vq7HPD-37">
+          <mxGeometry x="11.620000000000005" y="54.25" width="250" height="155.75" as="geometry" />
+        </mxCell>
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-40" value="&lt;b&gt;Admin Dashboard&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WmnyH9-4UKQU25Vq7HPD-37">
+          <mxGeometry x="106.62" y="110.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
