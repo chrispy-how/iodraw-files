@@ -98,7 +98,7 @@
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-2" value="&lt;b&gt;Admin&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="219.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WmnyH9-4UKQU25Vq7HPD-3" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-3" value="&lt;b&gt;Register&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
