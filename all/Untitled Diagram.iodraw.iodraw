@@ -31,7 +31,7 @@
           <mxGeometry x="230" y="272.2500000000001" width="49" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-22" value="Data Factory" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Data_Factory.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="87.50000000000011" y="330" width="50" height="50" as="geometry" />
+          <mxGeometry x="240.0000000000001" y="388.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-23" value="SQL Data&lt;br&gt;Warehouse" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=6;" parent="1" vertex="1">
           <mxGeometry x="589.9999999999998" y="352" width="37.5" height="50" as="geometry" />
@@ -164,7 +164,7 @@
             <mxPoint x="420" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmnyH9-4UKQU25Vq7HPD-45" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;exitX=1.02;exitY=0.755;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-45" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;exitX=0.98;exitY=0.895;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RLjyjs_sm2IHfBNOWAbh-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="320" as="sourcePoint" />
             <mxPoint x="460" y="310" as="targetPoint" />
