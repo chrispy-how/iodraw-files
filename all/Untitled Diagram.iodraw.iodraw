@@ -105,7 +105,7 @@
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-32" value="" style="whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="731.62" y="326.5" width="250" height="155.75" as="geometry" />
         </mxCell>
-        <mxCell id="WmnyH9-4UKQU25Vq7HPD-33" value="&lt;b&gt;View Data&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-33" value="&lt;b&gt;Admin Dashboard&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="826.62" y="382.75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
