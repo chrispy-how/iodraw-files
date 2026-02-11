@@ -25,7 +25,7 @@
           <mxGeometry x="225.0000000000001" y="40" width="65" height="51" as="geometry" />
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-20" value="HDInsight" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/HDInsight.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=4;" parent="1" vertex="1">
-          <mxGeometry x="160.0000000000001" y="750.0000000000001" width="50" height="38.5" as="geometry" />
+          <mxGeometry x="80.00000000000011" y="520.0000000000001" width="50" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RLjyjs_sm2IHfBNOWAbh-21" target="RLjyjs_sm2IHfBNOWAbh-22">
           <mxGeometry relative="1" as="geometry" />
