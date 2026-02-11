@@ -209,11 +209,6 @@
             <mxPoint x="530" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmnyH9-4UKQU25Vq7HPD-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WmnyH9-4UKQU25Vq7HPD-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-53" value="Secure Communictions&lt;div&gt;Protocols&lt;/div&gt;&lt;div&gt;&lt;b&gt;INTEGRITY&lt;/b&gt;&lt;/div&gt;" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/DirectorySync.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="50" height="50" as="geometry" />
         </mxCell>
@@ -227,6 +222,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="620" as="sourcePoint" />
             <mxPoint x="690" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmnyH9-4UKQU25Vq7HPD-59" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="260" as="sourcePoint" />
+            <mxPoint x="530" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
