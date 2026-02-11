@@ -35,7 +35,7 @@
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-32" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;entryX=0.996;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;elbow=vertical;" parent="1" target="RLjyjs_sm2IHfBNOWAbh-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="690" as="sourcePoint" />
+            <mxPoint x="440" y="580" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-33" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-20" edge="1">
@@ -78,7 +78,7 @@
           <mxGeometry x="695.5000000000001" y="484.2500000000001" width="50" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-21" value="Machine&lt;br&gt;Learning" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Machine_Learning.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="555.5" y="478.5000000000001" width="49" height="50" as="geometry" />
+          <mxGeometry x="320" y="540.0000000000001" width="49" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-22" value="Data Factory" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Data_Factory.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" parent="1" vertex="1">
           <mxGeometry x="695.5000000000001" y="591.5" width="50" height="50" as="geometry" />
