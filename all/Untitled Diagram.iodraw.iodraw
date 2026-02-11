@@ -15,19 +15,6 @@
             <mxPoint x="370" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLjyjs_sm2IHfBNOWAbh-29" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=1.052;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#808080;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="908.7180000000001" y="407.1" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RLjyjs_sm2IHfBNOWAbh-30" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;exitX=0.62;exitY=1.036;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="RLjyjs_sm2IHfBNOWAbh-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="913.5" y="616.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-12" value="Diagrnostic &lt;br&gt;Events" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/DirectorySync.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" parent="1" vertex="1">
           <mxGeometry x="87.5" y="670" width="50" height="50" as="geometry" />
         </mxCell>
