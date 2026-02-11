@@ -37,7 +37,7 @@
           <mxGeometry x="240.0000000000001" y="388.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RLjyjs_sm2IHfBNOWAbh-23" value="SQL Data&lt;br&gt;Warehouse" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=6;" parent="1" vertex="1">
-          <mxGeometry x="589.9999999999998" y="352" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="609.9999999999998" y="364" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WmnyH9-4UKQU25Vq7HPD-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="138.5" width="30" height="60" as="geometry" />
